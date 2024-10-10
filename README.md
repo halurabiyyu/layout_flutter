@@ -65,3 +65,5 @@ Menambahkan asset berupa gambar pada aplikasi <br>
 ### Tugas 1
 [Repo Tugas 1](https://github.com/halurabiyyu/basic_layout_flutter)
 
+### Repo Praktikum 5 & Tugas 2
+[Repo Prak 5 & Tugas 2](https://github.com/halurabiyyu/belanja)
